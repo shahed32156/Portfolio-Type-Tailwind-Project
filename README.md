@@ -1,0 +1,1 @@
+This is basically a portfolio type or services type frontend design of a single page where I have implemented of almost all the major part of the tailwind css and simple javascript are integrated on the navigation bar. 
